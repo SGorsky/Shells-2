@@ -1,0 +1,7 @@
+Damage
+Rate of Fire (Miliseconds/Shot)
+Clip Capacity (# of Ammo/Clip)
+Reload Time (Time to Reload in Miliseconds)
+Speed (Speed of the entity holding the gun)
+Spread (Spread of the bullet from the desired spot)
+Damage Fall Off

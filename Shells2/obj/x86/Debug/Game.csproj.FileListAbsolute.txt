@@ -1,0 +1,550 @@
+E:\Game\Game\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Game\Game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Game\Game\bin\x86\Debug\Game.exe
+E:\Game\Game\bin\x86\Debug\Game.pdb
+E:\Game\Game\obj\x86\Debug\Game.exe
+E:\Game\Game\obj\x86\Debug\Game.pdb
+F:\Game\Game\bin\x86\Debug\Game.exe
+F:\Game\Game\bin\x86\Debug\Game.pdb
+F:\Game\Game\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Game\Game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Game\Game\obj\x86\Debug\Game.exe
+F:\Game\Game\obj\x86\Debug\Game.pdb
+F:\Game\Game\bin\x86\Debug\Content\Player.xnb
+F:\Game\Game\bin\x86\Debug\Content\Bullet2.xnb
+F:\Game\Game\bin\x86\Debug\Content\Bullet1.xnb
+E:\Game\Game\bin\x86\Debug\Content\Bullet1.xnb
+E:\Game\Game\bin\x86\Debug\Content\Player.xnb
+E:\Game\Game\bin\x86\Debug\Content\Bullet2.xnb
+E:\Game\Game\bin\x86\Debug\Content\Guns\AK47.xnb
+E:\Game\Game\bin\x86\Debug\Content\Guns\Desert Eagle.xnb
+E:\Game\Game\bin\x86\Debug\Content\Guns\Dragunov.xnb
+E:\Game\Game\bin\x86\Debug\Content\Guns\LSAT.xnb
+E:\Game\Game\bin\x86\Debug\Content\Guns\MP5.xnb
+E:\Game\Game\bin\x86\Debug\Content\Guns\SPAS.xnb
+F:\Game\Game\bin\x86\Debug\Content\Guns\LSAT.xnb
+F:\Game\Game\bin\x86\Debug\Content\Guns\MP5.xnb
+F:\Game\Game\bin\x86\Debug\Content\Guns\SPAS.xnb
+F:\Game\Game\bin\x86\Debug\Content\Guns\Dragunov.xnb
+F:\Game\Game\bin\x86\Debug\Content\Guns\Desert Eagle.xnb
+F:\Game\Game\bin\x86\Debug\Content\Guns\AK47.xnb
+G:\Game\Game\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Game\Game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\Game\Game\obj\x86\Debug\Game.exe
+G:\Game\Game\bin\x86\Debug\Content\Bullet1.xnb
+G:\Game\Game\bin\x86\Debug\Content\Player.xnb
+G:\Game\Game\bin\x86\Debug\Content\Bullet2.xnb
+G:\Game\Game\bin\x86\Debug\Content\Guns\AK47.xnb
+G:\Game\Game\bin\x86\Debug\Content\Guns\Desert Eagle.xnb
+G:\Game\Game\bin\x86\Debug\Content\Guns\Dragunov.xnb
+G:\Game\Game\bin\x86\Debug\Content\Guns\LSAT.xnb
+G:\Game\Game\bin\x86\Debug\Content\Guns\MP5.xnb
+G:\Game\Game\bin\x86\Debug\Content\Guns\SPAS.xnb
+G:\Game\Game\bin\x86\Debug\Content\Ammo Bar.xnb
+G:\Game\Game\bin\x86\Debug\Content\Health Bar.xnb
+G:\Game\Game\bin\x86\Debug\Content\Player Bar.xnb
+G:\Game\Game\bin\x86\Debug\Game.exe
+G:\Game\Game\bin\x86\Debug\Game.pdb
+G:\Game\Game\obj\x86\Debug\Game.pdb
+F:\Flowcharts\Game\Game\bin\x86\Debug\Content\Bullet1.xnb
+F:\Flowcharts\Game\Game\bin\x86\Debug\Content\Player.xnb
+F:\Flowcharts\Game\Game\bin\x86\Debug\Content\Bullet2.xnb
+F:\Flowcharts\Game\Game\bin\x86\Debug\Content\Guns\AK47.xnb
+F:\Flowcharts\Game\Game\bin\x86\Debug\Content\Guns\Desert Eagle.xnb
+F:\Flowcharts\Game\Game\bin\x86\Debug\Content\Guns\Dragunov.xnb
+F:\Flowcharts\Game\Game\bin\x86\Debug\Content\Guns\LSAT.xnb
+F:\Flowcharts\Game\Game\bin\x86\Debug\Content\Guns\MP5.xnb
+F:\Flowcharts\Game\Game\bin\x86\Debug\Content\Guns\SPAS.xnb
+F:\Flowcharts\Game\Game\bin\x86\Debug\Content\Ammo Bar.xnb
+F:\Flowcharts\Game\Game\bin\x86\Debug\Content\Health Bar.xnb
+F:\Flowcharts\Game\Game\bin\x86\Debug\Content\Player Bar.xnb
+F:\Flowcharts\Game\Game\bin\x86\Debug\Game.exe
+F:\Flowcharts\Game\Game\bin\x86\Debug\Game.pdb
+F:\Flowcharts\Game\Game\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Flowcharts\Game\Game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Flowcharts\Game\Game\obj\x86\Debug\Game.exe
+F:\Flowcharts\Game\Game\obj\x86\Debug\Game.pdb
+F:\Programming\Assignments\ISU\Game\Game\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Programming\Assignments\ISU\Game\Game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Programming\Assignments\ISU\Game\Game\obj\x86\Debug\Game.exe
+F:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Bullet1.xnb
+F:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Bullet2.xnb
+F:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Guns\AK47.xnb
+F:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Guns\Desert Eagle.xnb
+F:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Guns\Dragunov.xnb
+F:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Guns\LSAT.xnb
+F:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Guns\MP5.xnb
+F:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Guns\SPAS.xnb
+F:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Ammo Bar.xnb
+F:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Health Bar.xnb
+F:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Player Bar.xnb
+F:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Entities\BlueSoldier.xnb
+F:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Entities\Captain.xnb
+F:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Entities\ConstructionWorker.xnb
+F:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Entities\Link Skin.xnb
+F:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Entities\Mario Skin.xnb
+F:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Entities\Ninja.xnb
+F:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Entities\Pirate.xnb
+F:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Entities\Player Four.xnb
+F:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Entities\Player One.xnb
+F:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Entities\Player Three.xnb
+F:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Entities\Player Two.xnb
+F:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Entities\Politician.xnb
+F:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Entities\RedSoldier.xnb
+F:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Entities\Soldier.xnb
+F:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Entities\YellowSoldier.xnb
+F:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Game.exe
+F:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Game.pdb
+F:\Programming\Assignments\ISU\Game\Game\obj\x86\Debug\Game.pdb
+K:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Bullet1.xnb
+K:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Bullet2.xnb
+K:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Guns\AK47.xnb
+K:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Guns\Desert Eagle.xnb
+K:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Guns\Dragunov.xnb
+K:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Guns\LSAT.xnb
+K:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Guns\MP5.xnb
+K:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Guns\SPAS.xnb
+K:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Ammo Bar.xnb
+K:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Health Bar.xnb
+K:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Player Bar.xnb
+K:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Entities\BlueSoldier.xnb
+K:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Entities\Captain.xnb
+K:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Entities\ConstructionWorker.xnb
+K:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Entities\Link Skin.xnb
+K:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Entities\Mario Skin.xnb
+K:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Entities\Ninja.xnb
+K:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Entities\Pirate.xnb
+K:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Entities\Player Four.xnb
+K:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Entities\Player One.xnb
+K:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Entities\Player Three.xnb
+K:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Entities\Player Two.xnb
+K:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Entities\Politician.xnb
+K:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Entities\RedSoldier.xnb
+K:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Entities\Soldier.xnb
+K:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Entities\YellowSoldier.xnb
+K:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Game.exe
+K:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Game.pdb
+K:\Programming\Assignments\ISU\Game\Game\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\Programming\Assignments\ISU\Game\Game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+K:\Programming\Assignments\ISU\Game\Game\obj\x86\Debug\Game.exe
+K:\Programming\Assignments\ISU\Game\Game\obj\x86\Debug\Game.pdb
+K:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Brick.xnb
+K:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Floor.xnb
+K:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Grass.xnb
+E:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Bullet1.xnb
+E:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Bullet2.xnb
+E:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Guns\AK47.xnb
+E:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Guns\Desert Eagle.xnb
+E:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Guns\Dragunov.xnb
+E:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Guns\LSAT.xnb
+E:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Guns\MP5.xnb
+E:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Guns\SPAS.xnb
+E:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Ammo Bar.xnb
+E:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Health Bar.xnb
+E:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Player Bar.xnb
+E:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Entities\BlueSoldier.xnb
+E:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Entities\Captain.xnb
+E:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Entities\ConstructionWorker.xnb
+E:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Entities\Link Skin.xnb
+E:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Entities\Mario Skin.xnb
+E:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Entities\Ninja.xnb
+E:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Entities\Pirate.xnb
+E:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Entities\Player Four.xnb
+E:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Entities\Player One.xnb
+E:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Entities\Player Three.xnb
+E:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Entities\Player Two.xnb
+E:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Entities\Politician.xnb
+E:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Entities\RedSoldier.xnb
+E:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Entities\Soldier.xnb
+E:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Entities\YellowSoldier.xnb
+E:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Game.exe
+E:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Game.pdb
+E:\Programming\Assignments\ISU\Game\Game\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Programming\Assignments\ISU\Game\Game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Programming\Assignments\ISU\Game\Game\obj\x86\Debug\Game.exe
+E:\Programming\Assignments\ISU\Game\Game\obj\x86\Debug\Game.pdb
+E:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\blood.xnb
+E:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Tiles\Brick.xnb
+E:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Tiles\Floor.xnb
+E:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Tiles\Grass.xnb
+E:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Tiles\Sand.xnb
+F:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Tiles\Brick.xnb
+F:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Tiles\Floor.xnb
+F:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\blood.xnb
+F:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Tiles\Grass.xnb
+F:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Tiles\Sand.xnb
+E:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Sounds\Largegun.xnb
+E:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Sounds\Smallgun.xnb
+E:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Sounds\Mediumgun.xnb
+E:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Sounds\AK47.xnb
+E:\Programming\Assignments\ISU\Backups\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Bullet1.xnb
+E:\Programming\Assignments\ISU\Backups\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Bullet2.xnb
+E:\Programming\Assignments\ISU\Backups\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Guns\AK47.xnb
+E:\Programming\Assignments\ISU\Backups\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Guns\Desert Eagle.xnb
+E:\Programming\Assignments\ISU\Backups\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Guns\Dragunov.xnb
+E:\Programming\Assignments\ISU\Backups\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Guns\LSAT.xnb
+E:\Programming\Assignments\ISU\Backups\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Guns\MP5.xnb
+E:\Programming\Assignments\ISU\Backups\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Guns\SPAS.xnb
+E:\Programming\Assignments\ISU\Backups\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Ammo Bar.xnb
+E:\Programming\Assignments\ISU\Backups\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Health Bar.xnb
+E:\Programming\Assignments\ISU\Backups\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Player Bar.xnb
+E:\Programming\Assignments\ISU\Backups\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Entities\BlueSoldier.xnb
+E:\Programming\Assignments\ISU\Backups\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Entities\Captain.xnb
+E:\Programming\Assignments\ISU\Backups\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Entities\ConstructionWorker.xnb
+E:\Programming\Assignments\ISU\Backups\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Entities\Link Skin.xnb
+E:\Programming\Assignments\ISU\Backups\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Entities\Mario Skin.xnb
+E:\Programming\Assignments\ISU\Backups\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Entities\Ninja.xnb
+E:\Programming\Assignments\ISU\Backups\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Entities\Pirate.xnb
+E:\Programming\Assignments\ISU\Backups\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Entities\Player Four.xnb
+E:\Programming\Assignments\ISU\Backups\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Entities\Player One.xnb
+E:\Programming\Assignments\ISU\Backups\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Entities\Player Three.xnb
+E:\Programming\Assignments\ISU\Backups\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Entities\Player Two.xnb
+E:\Programming\Assignments\ISU\Backups\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Entities\Politician.xnb
+E:\Programming\Assignments\ISU\Backups\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Entities\RedSoldier.xnb
+E:\Programming\Assignments\ISU\Backups\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Entities\Soldier.xnb
+E:\Programming\Assignments\ISU\Backups\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Entities\YellowSoldier.xnb
+E:\Programming\Assignments\ISU\Backups\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Tiles\Brick.xnb
+E:\Programming\Assignments\ISU\Backups\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Tiles\Floor.xnb
+E:\Programming\Assignments\ISU\Backups\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Tiles\Grass.xnb
+E:\Programming\Assignments\ISU\Backups\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\blood.xnb
+E:\Programming\Assignments\ISU\Backups\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Tiles\Sand.xnb
+E:\Programming\Assignments\ISU\Backups\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Sounds\Largegun.xnb
+E:\Programming\Assignments\ISU\Backups\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Sounds\Smallgun.xnb
+E:\Programming\Assignments\ISU\Backups\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Sounds\Mediumgun.xnb
+E:\Programming\Assignments\ISU\Backups\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Sounds\AK47.xnb
+E:\Programming\Assignments\ISU\Backups\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Game.exe
+E:\Programming\Assignments\ISU\Backups\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Game.pdb
+E:\Programming\Assignments\ISU\Backups\Game Jan 14 2.37 More Stuff\Game\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Programming\Assignments\ISU\Backups\Game Jan 14 2.37 More Stuff\Game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Programming\Assignments\ISU\Backups\Game Jan 14 2.37 More Stuff\Game\obj\x86\Debug\Game.exe
+E:\Programming\Assignments\ISU\Backups\Game Jan 14 2.37 More Stuff\Game\obj\x86\Debug\Game.pdb
+F:\Programming\Assignments\ISU\Backups\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Bullet1.xnb
+F:\Programming\Assignments\ISU\Backups\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Bullet2.xnb
+F:\Programming\Assignments\ISU\Backups\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Guns\AK47.xnb
+F:\Programming\Assignments\ISU\Backups\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Guns\Desert Eagle.xnb
+F:\Programming\Assignments\ISU\Backups\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Guns\Dragunov.xnb
+F:\Programming\Assignments\ISU\Backups\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Guns\LSAT.xnb
+F:\Programming\Assignments\ISU\Backups\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Guns\MP5.xnb
+F:\Programming\Assignments\ISU\Backups\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Guns\SPAS.xnb
+F:\Programming\Assignments\ISU\Backups\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Ammo Bar.xnb
+F:\Programming\Assignments\ISU\Backups\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Health Bar.xnb
+F:\Programming\Assignments\ISU\Backups\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Player Bar.xnb
+F:\Programming\Assignments\ISU\Backups\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Entities\BlueSoldier.xnb
+F:\Programming\Assignments\ISU\Backups\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Entities\Captain.xnb
+F:\Programming\Assignments\ISU\Backups\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Entities\ConstructionWorker.xnb
+F:\Programming\Assignments\ISU\Backups\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Entities\Link Skin.xnb
+F:\Programming\Assignments\ISU\Backups\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Entities\Mario Skin.xnb
+F:\Programming\Assignments\ISU\Backups\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Entities\Ninja.xnb
+F:\Programming\Assignments\ISU\Backups\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Entities\Pirate.xnb
+F:\Programming\Assignments\ISU\Backups\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Entities\Player Four.xnb
+F:\Programming\Assignments\ISU\Backups\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Entities\Player One.xnb
+F:\Programming\Assignments\ISU\Backups\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Entities\Player Three.xnb
+F:\Programming\Assignments\ISU\Backups\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Entities\Player Two.xnb
+F:\Programming\Assignments\ISU\Backups\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Entities\Politician.xnb
+F:\Programming\Assignments\ISU\Backups\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Entities\RedSoldier.xnb
+F:\Programming\Assignments\ISU\Backups\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Entities\Soldier.xnb
+F:\Programming\Assignments\ISU\Backups\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Entities\YellowSoldier.xnb
+F:\Programming\Assignments\ISU\Backups\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Tiles\Brick.xnb
+F:\Programming\Assignments\ISU\Backups\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Tiles\Floor.xnb
+F:\Programming\Assignments\ISU\Backups\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Tiles\Grass.xnb
+F:\Programming\Assignments\ISU\Backups\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\blood.xnb
+F:\Programming\Assignments\ISU\Backups\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Tiles\Sand.xnb
+F:\Programming\Assignments\ISU\Backups\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Sounds\Largegun.xnb
+F:\Programming\Assignments\ISU\Backups\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Sounds\Smallgun.xnb
+F:\Programming\Assignments\ISU\Backups\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Sounds\Mediumgun.xnb
+F:\Programming\Assignments\ISU\Backups\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Sounds\AK47.xnb
+F:\Programming\Assignments\ISU\Backups\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Game.exe
+F:\Programming\Assignments\ISU\Backups\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Game.pdb
+F:\Programming\Assignments\ISU\Backups\Game Jan 14 2.37 More Stuff\Game\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Programming\Assignments\ISU\Backups\Game Jan 14 2.37 More Stuff\Game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Programming\Assignments\ISU\Backups\Game Jan 14 2.37 More Stuff\Game\obj\x86\Debug\Game.exe
+F:\Programming\Assignments\ISU\Backups\Game Jan 14 2.37 More Stuff\Game\obj\x86\Debug\Game.pdb
+E:\Game Jan 14 2.37 More Stuff\Game\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Game Jan 14 2.37 More Stuff\Game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Game Jan 14 2.37 More Stuff\Game\obj\x86\Debug\Game.exe
+E:\Game Jan 14 2.37 More Stuff\Game\obj\x86\Debug\Game.pdb
+E:\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Bullet1.xnb
+E:\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Bullet2.xnb
+E:\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Guns\AK47.xnb
+E:\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Guns\Desert Eagle.xnb
+E:\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Guns\Dragunov.xnb
+E:\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Guns\LSAT.xnb
+E:\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Guns\MP5.xnb
+E:\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Guns\SPAS.xnb
+E:\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Ammo Bar.xnb
+E:\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Health Bar.xnb
+E:\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Player Bar.xnb
+E:\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Entities\BlueSoldier.xnb
+E:\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Entities\Captain.xnb
+E:\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Entities\ConstructionWorker.xnb
+E:\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Entities\Link Skin.xnb
+E:\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Entities\Mario Skin.xnb
+E:\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Entities\Ninja.xnb
+E:\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Entities\Pirate.xnb
+E:\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Entities\Player Four.xnb
+E:\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Entities\Player One.xnb
+E:\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Entities\Player Three.xnb
+E:\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Entities\Player Two.xnb
+E:\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Entities\Politician.xnb
+E:\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Entities\RedSoldier.xnb
+E:\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Entities\Soldier.xnb
+E:\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Entities\YellowSoldier.xnb
+E:\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Tiles\Brick.xnb
+E:\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Tiles\Floor.xnb
+E:\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Tiles\Grass.xnb
+E:\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\blood.xnb
+E:\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Tiles\Sand.xnb
+E:\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Sounds\Largegun.xnb
+E:\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Sounds\Smallgun.xnb
+E:\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Sounds\Mediumgun.xnb
+E:\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Sounds\AK47.xnb
+E:\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Game.exe
+E:\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Game.pdb
+E:\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Controls\Background.xnb
+E:\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Controls\Left Button.xnb
+E:\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Controls\Main Menu.xnb
+E:\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Controls\Play Button.xnb
+E:\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Controls\Plus Button.xnb
+E:\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Controls\Quit Button.xnb
+E:\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Controls\Right Button.xnb
+E:\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Controls\Start Button.xnb
+E:\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Controls\Subtract Button.xnb
+C:\Users\Ori\Desktop\Game Jan 14 2.37 More Stuff\Game\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ori\Desktop\Game Jan 14 2.37 More Stuff\Game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Ori\Desktop\Game Jan 14 2.37 More Stuff\Game\obj\x86\Debug\Game.exe
+C:\Users\Ori\Desktop\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Controls\Options Button.xnb
+C:\Users\Ori\Desktop\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Entities\Mario Skin.xnb
+C:\Users\Ori\Desktop\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Controls\Background2.xnb
+C:\Users\Ori\Desktop\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Tiles\Brick.xnb
+C:\Users\Ori\Desktop\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Entities\Pirate.xnb
+C:\Users\Ori\Desktop\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Bullet1.xnb
+C:\Users\Ori\Desktop\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Entities\YellowSoldier.xnb
+C:\Users\Ori\Desktop\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Entities\Player Three.xnb
+C:\Users\Ori\Desktop\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Health Bar.xnb
+C:\Users\Ori\Desktop\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Guns\Dragunov.xnb
+C:\Users\Ori\Desktop\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Entities\Link Skin.xnb
+C:\Users\Ori\Desktop\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Controls\Subtract Button.xnb
+C:\Users\Ori\Desktop\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Controls\Left Button.xnb
+C:\Users\Ori\Desktop\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Controls\Start Button1.xnb
+C:\Users\Ori\Desktop\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Sounds\AK47.xnb
+C:\Users\Ori\Desktop\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Entities\ConstructionWorker.xnb
+C:\Users\Ori\Desktop\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Controls\Plus Button.xnb
+C:\Users\Ori\Desktop\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Controls\BackgroundMain.xnb
+C:\Users\Ori\Desktop\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Entities\Politician.xnb
+C:\Users\Ori\Desktop\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Controls\Start Button2.xnb
+C:\Users\Ori\Desktop\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Controls\Right Button.xnb
+C:\Users\Ori\Desktop\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Guns\MP5.xnb
+C:\Users\Ori\Desktop\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Entities\Ninja.xnb
+C:\Users\Ori\Desktop\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Controls\Back Button.xnb
+C:\Users\Ori\Desktop\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Tiles\Grass.xnb
+C:\Users\Ori\Desktop\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Controls\Quit Button.xnb
+C:\Users\Ori\Desktop\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Controls\Play Button.xnb
+C:\Users\Ori\Desktop\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Player Bar.xnb
+C:\Users\Ori\Desktop\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Entities\RedSoldier.xnb
+C:\Users\Ori\Desktop\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Tiles\Floor.xnb
+C:\Users\Ori\Desktop\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Tiles\Sand.xnb
+C:\Users\Ori\Desktop\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Sounds\Largegun.xnb
+C:\Users\Ori\Desktop\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\blood.xnb
+C:\Users\Ori\Desktop\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Entities\Player Two.xnb
+C:\Users\Ori\Desktop\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Guns\SPAS.xnb
+C:\Users\Ori\Desktop\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Guns\Desert Eagle.xnb
+C:\Users\Ori\Desktop\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Guns\AK47.xnb
+C:\Users\Ori\Desktop\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Guns\LSAT.xnb
+C:\Users\Ori\Desktop\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Entities\Soldier.xnb
+C:\Users\Ori\Desktop\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Ammo Bar.xnb
+C:\Users\Ori\Desktop\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Sounds\Mediumgun.xnb
+C:\Users\Ori\Desktop\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Bullet2.xnb
+C:\Users\Ori\Desktop\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Controls\Background1.xnb
+C:\Users\Ori\Desktop\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Sounds\Smallgun.xnb
+C:\Users\Ori\Desktop\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Entities\Player One.xnb
+C:\Users\Ori\Desktop\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Entities\Player Four.xnb
+C:\Users\Ori\Desktop\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Entities\BlueSoldier.xnb
+C:\Users\Ori\Desktop\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\Entities\Captain.xnb
+C:\Users\Ori\Desktop\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Game.exe
+C:\Users\Ori\Desktop\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Game.pdb
+C:\Users\Ori\Desktop\Game Jan 14 2.37 More Stuff\Game\obj\x86\Debug\Game.pdb
+C:\Users\Ori\Desktop\Game Jan 14 2.37 More Stuff\Game\bin\x86\Debug\Content\defaultFont.xnb
+C:\Users\Sean\Downloads\Game Jan 15 2.38 Menus & Team Sizes\Game Jan 15 2.38 Menus & Team Sizes\Game\bin\x86\Debug\Content\Guns\Dragunov.xnb
+C:\Users\Sean\Downloads\Game Jan 15 2.38 Menus & Team Sizes\Game Jan 15 2.38 Menus & Team Sizes\Game\bin\x86\Debug\Content\Controls\Background2.xnb
+C:\Users\Sean\Downloads\Game Jan 15 2.38 Menus & Team Sizes\Game Jan 15 2.38 Menus & Team Sizes\Game\bin\x86\Debug\Content\Controls\BackgroundMain.xnb
+C:\Users\Sean\Downloads\Game Jan 15 2.38 Menus & Team Sizes\Game Jan 15 2.38 Menus & Team Sizes\Game\bin\x86\Debug\Content\Controls\Start Button1.xnb
+C:\Users\Sean\Downloads\Game Jan 15 2.38 Menus & Team Sizes\Game Jan 15 2.38 Menus & Team Sizes\Game\bin\x86\Debug\Content\Tiles\Sand.xnb
+C:\Users\Sean\Downloads\Game Jan 15 2.38 Menus & Team Sizes\Game Jan 15 2.38 Menus & Team Sizes\Game\bin\x86\Debug\Content\Controls\Left Button.xnb
+C:\Users\Sean\Downloads\Game Jan 15 2.38 Menus & Team Sizes\Game Jan 15 2.38 Menus & Team Sizes\Game\bin\x86\Debug\Content\Entities\RedSoldier.xnb
+C:\Users\Sean\Downloads\Game Jan 15 2.38 Menus & Team Sizes\Game Jan 15 2.38 Menus & Team Sizes\Game\bin\x86\Debug\Content\Controls\Subtract Button.xnb
+C:\Users\Sean\Downloads\Game Jan 15 2.38 Menus & Team Sizes\Game Jan 15 2.38 Menus & Team Sizes\Game\bin\x86\Debug\Content\Controls\Play Button.xnb
+C:\Users\Sean\Downloads\Game Jan 15 2.38 Menus & Team Sizes\Game Jan 15 2.38 Menus & Team Sizes\Game\bin\x86\Debug\Content\Controls\Plus Button.xnb
+C:\Users\Sean\Downloads\Game Jan 15 2.38 Menus & Team Sizes\Game Jan 15 2.38 Menus & Team Sizes\Game\bin\x86\Debug\Content\Guns\AK47.xnb
+C:\Users\Sean\Downloads\Game Jan 15 2.38 Menus & Team Sizes\Game Jan 15 2.38 Menus & Team Sizes\Game\bin\x86\Debug\Content\Entities\Player Three.xnb
+C:\Users\Sean\Downloads\Game Jan 15 2.38 Menus & Team Sizes\Game Jan 15 2.38 Menus & Team Sizes\Game\bin\x86\Debug\Content\Tiles\Grass.xnb
+C:\Users\Sean\Downloads\Game Jan 15 2.38 Menus & Team Sizes\Game Jan 15 2.38 Menus & Team Sizes\Game\bin\x86\Debug\Content\Entities\ConstructionWorker.xnb
+C:\Users\Sean\Downloads\Game Jan 15 2.38 Menus & Team Sizes\Game Jan 15 2.38 Menus & Team Sizes\Game\bin\x86\Debug\Content\Health Bar.xnb
+C:\Users\Sean\Downloads\Game Jan 15 2.38 Menus & Team Sizes\Game Jan 15 2.38 Menus & Team Sizes\Game\bin\x86\Debug\Content\Sounds\Smallgun.xnb
+C:\Users\Sean\Downloads\Game Jan 15 2.38 Menus & Team Sizes\Game Jan 15 2.38 Menus & Team Sizes\Game\bin\x86\Debug\Content\Entities\Pirate.xnb
+C:\Users\Sean\Downloads\Game Jan 15 2.38 Menus & Team Sizes\Game Jan 15 2.38 Menus & Team Sizes\Game\bin\x86\Debug\Content\Controls\Back Button.xnb
+C:\Users\Sean\Downloads\Game Jan 15 2.38 Menus & Team Sizes\Game Jan 15 2.38 Menus & Team Sizes\Game\bin\x86\Debug\Content\Controls\Options Button.xnb
+C:\Users\Sean\Downloads\Game Jan 15 2.38 Menus & Team Sizes\Game Jan 15 2.38 Menus & Team Sizes\Game\bin\x86\Debug\Content\defaultFont.xnb
+C:\Users\Sean\Downloads\Game Jan 15 2.38 Menus & Team Sizes\Game Jan 15 2.38 Menus & Team Sizes\Game\bin\x86\Debug\Content\Entities\Player One.xnb
+C:\Users\Sean\Downloads\Game Jan 15 2.38 Menus & Team Sizes\Game Jan 15 2.38 Menus & Team Sizes\Game\bin\x86\Debug\Content\Sounds\Largegun.xnb
+C:\Users\Sean\Downloads\Game Jan 15 2.38 Menus & Team Sizes\Game Jan 15 2.38 Menus & Team Sizes\Game\bin\x86\Debug\Content\Sounds\Mediumgun.xnb
+C:\Users\Sean\Downloads\Game Jan 15 2.38 Menus & Team Sizes\Game Jan 15 2.38 Menus & Team Sizes\Game\bin\x86\Debug\Content\Controls\Start Button2.xnb
+C:\Users\Sean\Downloads\Game Jan 15 2.38 Menus & Team Sizes\Game Jan 15 2.38 Menus & Team Sizes\Game\bin\x86\Debug\Content\Bullet1.xnb
+C:\Users\Sean\Downloads\Game Jan 15 2.38 Menus & Team Sizes\Game Jan 15 2.38 Menus & Team Sizes\Game\bin\x86\Debug\Content\Bullet2.xnb
+C:\Users\Sean\Downloads\Game Jan 15 2.38 Menus & Team Sizes\Game Jan 15 2.38 Menus & Team Sizes\Game\bin\x86\Debug\Content\Tiles\Brick.xnb
+C:\Users\Sean\Downloads\Game Jan 15 2.38 Menus & Team Sizes\Game Jan 15 2.38 Menus & Team Sizes\Game\bin\x86\Debug\Content\Entities\YellowSoldier.xnb
+C:\Users\Sean\Downloads\Game Jan 15 2.38 Menus & Team Sizes\Game Jan 15 2.38 Menus & Team Sizes\Game\bin\x86\Debug\Content\Sounds\AK47.xnb
+C:\Users\Sean\Downloads\Game Jan 15 2.38 Menus & Team Sizes\Game Jan 15 2.38 Menus & Team Sizes\Game\bin\x86\Debug\Content\Entities\Captain.xnb
+C:\Users\Sean\Downloads\Game Jan 15 2.38 Menus & Team Sizes\Game Jan 15 2.38 Menus & Team Sizes\Game\bin\x86\Debug\Content\Entities\Mario Skin.xnb
+C:\Users\Sean\Downloads\Game Jan 15 2.38 Menus & Team Sizes\Game Jan 15 2.38 Menus & Team Sizes\Game\bin\x86\Debug\Content\Guns\MP5.xnb
+C:\Users\Sean\Downloads\Game Jan 15 2.38 Menus & Team Sizes\Game Jan 15 2.38 Menus & Team Sizes\Game\bin\x86\Debug\Content\Guns\LSAT.xnb
+C:\Users\Sean\Downloads\Game Jan 15 2.38 Menus & Team Sizes\Game Jan 15 2.38 Menus & Team Sizes\Game\bin\x86\Debug\Content\Controls\Right Button.xnb
+C:\Users\Sean\Downloads\Game Jan 15 2.38 Menus & Team Sizes\Game Jan 15 2.38 Menus & Team Sizes\Game\bin\x86\Debug\Content\Player Bar.xnb
+C:\Users\Sean\Downloads\Game Jan 15 2.38 Menus & Team Sizes\Game Jan 15 2.38 Menus & Team Sizes\Game\bin\x86\Debug\Content\Controls\Background1.xnb
+C:\Users\Sean\Downloads\Game Jan 15 2.38 Menus & Team Sizes\Game Jan 15 2.38 Menus & Team Sizes\Game\bin\x86\Debug\Content\Tiles\Floor.xnb
+C:\Users\Sean\Downloads\Game Jan 15 2.38 Menus & Team Sizes\Game Jan 15 2.38 Menus & Team Sizes\Game\bin\x86\Debug\Content\Guns\SPAS.xnb
+C:\Users\Sean\Downloads\Game Jan 15 2.38 Menus & Team Sizes\Game Jan 15 2.38 Menus & Team Sizes\Game\bin\x86\Debug\Content\Controls\Quit Button.xnb
+C:\Users\Sean\Downloads\Game Jan 15 2.38 Menus & Team Sizes\Game Jan 15 2.38 Menus & Team Sizes\Game\bin\x86\Debug\Content\blood.xnb
+C:\Users\Sean\Downloads\Game Jan 15 2.38 Menus & Team Sizes\Game Jan 15 2.38 Menus & Team Sizes\Game\bin\x86\Debug\Content\Entities\Player Four.xnb
+C:\Users\Sean\Downloads\Game Jan 15 2.38 Menus & Team Sizes\Game Jan 15 2.38 Menus & Team Sizes\Game\bin\x86\Debug\Content\Entities\Politician.xnb
+C:\Users\Sean\Downloads\Game Jan 15 2.38 Menus & Team Sizes\Game Jan 15 2.38 Menus & Team Sizes\Game\bin\x86\Debug\Content\Ammo Bar.xnb
+C:\Users\Sean\Downloads\Game Jan 15 2.38 Menus & Team Sizes\Game Jan 15 2.38 Menus & Team Sizes\Game\bin\x86\Debug\Content\Entities\BlueSoldier.xnb
+C:\Users\Sean\Downloads\Game Jan 15 2.38 Menus & Team Sizes\Game Jan 15 2.38 Menus & Team Sizes\Game\bin\x86\Debug\Content\Entities\Soldier.xnb
+C:\Users\Sean\Downloads\Game Jan 15 2.38 Menus & Team Sizes\Game Jan 15 2.38 Menus & Team Sizes\Game\bin\x86\Debug\Content\Entities\Link Skin.xnb
+C:\Users\Sean\Downloads\Game Jan 15 2.38 Menus & Team Sizes\Game Jan 15 2.38 Menus & Team Sizes\Game\bin\x86\Debug\Content\Entities\Ninja.xnb
+C:\Users\Sean\Downloads\Game Jan 15 2.38 Menus & Team Sizes\Game Jan 15 2.38 Menus & Team Sizes\Game\bin\x86\Debug\Content\Guns\Desert Eagle.xnb
+C:\Users\Sean\Downloads\Game Jan 15 2.38 Menus & Team Sizes\Game Jan 15 2.38 Menus & Team Sizes\Game\bin\x86\Debug\Content\Entities\Player Two.xnb
+C:\Users\Sean\Downloads\Game Jan 15 2.38 Menus & Team Sizes\Game Jan 15 2.38 Menus & Team Sizes\Game\bin\x86\Debug\Game.exe
+C:\Users\Sean\Downloads\Game Jan 15 2.38 Menus & Team Sizes\Game Jan 15 2.38 Menus & Team Sizes\Game\bin\x86\Debug\Game.pdb
+C:\Users\Sean\Downloads\Game Jan 15 2.38 Menus & Team Sizes\Game Jan 15 2.38 Menus & Team Sizes\Game\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sean\Downloads\Game Jan 15 2.38 Menus & Team Sizes\Game Jan 15 2.38 Menus & Team Sizes\Game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Sean\Downloads\Game Jan 15 2.38 Menus & Team Sizes\Game Jan 15 2.38 Menus & Team Sizes\Game\obj\x86\Debug\Game.exe
+C:\Users\Sean\Downloads\Game Jan 15 2.38 Menus & Team Sizes\Game Jan 15 2.38 Menus & Team Sizes\Game\obj\x86\Debug\Game.pdb
+F:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Controls\Options Button.xnb
+F:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Controls\Play Button.xnb
+F:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Controls\Quit Button.xnb
+F:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Controls\Back Button.xnb
+F:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\defaultFont.xnb
+F:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Controls\Background1.xnb
+F:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Controls\Start Button2.xnb
+F:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Controls\BackgroundMain.xnb
+F:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Controls\Subtract Button.xnb
+F:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Sounds\Smallgun.xnb
+F:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Controls\Left Button.xnb
+F:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Sounds\Mediumgun.xnb
+F:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Controls\Start Button1.xnb
+F:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Controls\Right Button.xnb
+F:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Sounds\Largegun.xnb
+F:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Controls\Background2.xnb
+F:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Sounds\AK47.xnb
+F:\Programming\Assignments\ISU\Game\Game\bin\x86\Debug\Content\Controls\Plus Button.xnb
+F:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Content\Bullet1.xnb
+F:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Content\Bullet2.xnb
+F:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Content\Guns\AK47.xnb
+F:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Content\Guns\Desert Eagle.xnb
+F:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Content\Guns\Dragunov.xnb
+F:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Content\Guns\LSAT.xnb
+F:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Content\Guns\MP5.xnb
+F:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Content\Guns\SPAS.xnb
+F:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Content\Ammo Bar.xnb
+F:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Content\Health Bar.xnb
+F:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Content\Player Bar.xnb
+F:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Content\Entities\BlueSoldier.xnb
+F:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Content\Entities\Captain.xnb
+F:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Content\Entities\ConstructionWorker.xnb
+F:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Content\Entities\Link Skin.xnb
+F:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Content\Entities\Mario Skin.xnb
+F:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Content\Entities\Ninja.xnb
+F:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Content\Entities\Pirate.xnb
+F:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Content\Entities\Player Four.xnb
+F:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Content\Entities\Player One.xnb
+F:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Content\Entities\Player Three.xnb
+F:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Content\Entities\Player Two.xnb
+F:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Content\Entities\Politician.xnb
+F:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Content\Entities\RedSoldier.xnb
+F:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Content\Entities\Soldier.xnb
+F:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Content\Entities\YellowSoldier.xnb
+F:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Content\Tiles\Brick.xnb
+F:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Content\Tiles\Floor.xnb
+F:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Content\Tiles\Grass.xnb
+F:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Content\blood.xnb
+F:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Content\Tiles\Sand.xnb
+F:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Content\Controls\Back Button.xnb
+F:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Content\Controls\Background1.xnb
+F:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Content\Controls\Background2.xnb
+F:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Content\Controls\BackgroundMain.xnb
+F:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Content\Controls\Left Button.xnb
+F:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Content\Controls\Options Button.xnb
+F:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Content\Controls\Play Button.xnb
+F:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Content\Controls\Plus Button.xnb
+F:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Content\Controls\Quit Button.xnb
+F:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Content\Controls\Right Button.xnb
+F:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Content\Controls\Start Button1.xnb
+F:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Content\Controls\Start Button2.xnb
+F:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Content\Controls\Subtract Button.xnb
+F:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Content\Sounds\Largegun.xnb
+F:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Content\Sounds\Smallgun.xnb
+F:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Content\Sounds\Mediumgun.xnb
+F:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Content\Sounds\AK47.xnb
+F:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Content\defaultFont.xnb
+F:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Game.exe
+F:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Game.pdb
+F:\Programming\Assignments\ISU\GoodCode\Game\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Programming\Assignments\ISU\GoodCode\Game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Programming\Assignments\ISU\GoodCode\Game\obj\x86\Debug\Game.exe
+F:\Programming\Assignments\ISU\GoodCode\Game\obj\x86\Debug\Game.pdb
+E:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Content\Bullet1.xnb
+E:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Content\Bullet2.xnb
+E:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Content\Guns\AK47.xnb
+E:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Content\Guns\Desert Eagle.xnb
+E:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Content\Guns\Dragunov.xnb
+E:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Content\Guns\LSAT.xnb
+E:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Content\Guns\MP5.xnb
+E:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Content\Guns\SPAS.xnb
+E:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Content\Ammo Bar.xnb
+E:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Content\Health Bar.xnb
+E:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Content\Player Bar.xnb
+E:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Content\Entities\BlueSoldier.xnb
+E:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Content\Entities\Captain.xnb
+E:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Content\Entities\ConstructionWorker.xnb
+E:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Content\Entities\Link Skin.xnb
+E:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Content\Entities\Mario Skin.xnb
+E:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Content\Entities\Ninja.xnb
+E:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Content\Entities\Pirate.xnb
+E:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Content\Entities\Player Four.xnb
+E:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Content\Entities\Player One.xnb
+E:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Content\Entities\Player Three.xnb
+E:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Content\Entities\Player Two.xnb
+E:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Content\Entities\Politician.xnb
+E:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Content\Entities\RedSoldier.xnb
+E:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Content\Entities\Soldier.xnb
+E:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Content\Entities\YellowSoldier.xnb
+E:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Content\Tiles\Brick.xnb
+E:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Content\Tiles\Floor.xnb
+E:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Content\Tiles\Grass.xnb
+E:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Content\blood.xnb
+E:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Content\Tiles\Sand.xnb
+E:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Content\Controls\Back Button.xnb
+E:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Content\Controls\Background1.xnb
+E:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Content\Controls\Background2.xnb
+E:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Content\Controls\BackgroundMain.xnb
+E:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Content\Controls\Left Button.xnb
+E:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Content\Controls\Options Button.xnb
+E:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Content\Controls\Play Button.xnb
+E:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Content\Controls\Plus Button.xnb
+E:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Content\Controls\Quit Button.xnb
+E:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Content\Controls\Right Button.xnb
+E:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Content\Controls\Start Button1.xnb
+E:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Content\Controls\Start Button2.xnb
+E:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Content\Controls\Subtract Button.xnb
+E:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Content\Sounds\Largegun.xnb
+E:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Content\Sounds\Smallgun.xnb
+E:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Content\Sounds\Mediumgun.xnb
+E:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Content\Sounds\AK47.xnb
+E:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Content\defaultFont.xnb
+E:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Game.exe
+E:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Game.pdb
+E:\Programming\Assignments\ISU\GoodCode\Game\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Programming\Assignments\ISU\GoodCode\Game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Programming\Assignments\ISU\GoodCode\Game\obj\x86\Debug\Game.exe
+E:\Programming\Assignments\ISU\GoodCode\Game\obj\x86\Debug\Game.pdb
+F:\Programming\Assignments\ISU\GoodCode\Game\bin\x86\Debug\Content\Crosshair.xnb
