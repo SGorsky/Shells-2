@@ -1,0 +1,622 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Bullet1.png</Source>
+      <Name>Bullet1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean\Desktop\Stuff\Programming\Grade 12\Assignments\ISU\Shells2\Shells2\bin\x86\Debug\Content\Bullet1.xnb</Output>
+      <Time>2014-01-19T23:34:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Bullet2.png</Source>
+      <Name>Bullet2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean\Desktop\Stuff\Programming\Grade 12\Assignments\ISU\Shells2\Shells2\bin\x86\Debug\Content\Bullet2.xnb</Output>
+      <Time>2014-01-19T23:34:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Guns\AK47.png</Source>
+      <Name>Guns\AK47</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean\Desktop\Stuff\Programming\Grade 12\Assignments\ISU\Shells2\Shells2\bin\x86\Debug\Content\Guns\AK47.xnb</Output>
+      <Time>2014-01-19T23:37:24-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Guns\Desert Eagle.png</Source>
+      <Name>Guns\Desert Eagle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean\Desktop\Stuff\Programming\Grade 12\Assignments\ISU\Shells2\Shells2\bin\x86\Debug\Content\Guns\Desert Eagle.xnb</Output>
+      <Time>2014-01-19T23:37:26-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Guns\Dragunov.png</Source>
+      <Name>Guns\Dragunov</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean\Desktop\Stuff\Programming\Grade 12\Assignments\ISU\Shells2\Shells2\bin\x86\Debug\Content\Guns\Dragunov.xnb</Output>
+      <Time>2014-01-19T23:37:28-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Guns\LSAT.png</Source>
+      <Name>Guns\LSAT</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean\Desktop\Stuff\Programming\Grade 12\Assignments\ISU\Shells2\Shells2\bin\x86\Debug\Content\Guns\LSAT.xnb</Output>
+      <Time>2014-01-19T23:37:30-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Guns\MP5.png</Source>
+      <Name>Guns\MP5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean\Desktop\Stuff\Programming\Grade 12\Assignments\ISU\Shells2\Shells2\bin\x86\Debug\Content\Guns\MP5.xnb</Output>
+      <Time>2014-01-19T23:37:30-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Guns\SPAS.png</Source>
+      <Name>Guns\SPAS</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean\Desktop\Stuff\Programming\Grade 12\Assignments\ISU\Shells2\Shells2\bin\x86\Debug\Content\Guns\SPAS.xnb</Output>
+      <Time>2014-01-19T23:37:32-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Ammo Bar.png</Source>
+      <Name>Ammo Bar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean\Desktop\Stuff\Programming\Grade 12\Assignments\ISU\Shells2\Shells2\bin\x86\Debug\Content\Ammo Bar.xnb</Output>
+      <Time>2014-01-19T23:34:40-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Health Bar.png</Source>
+      <Name>Health Bar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean\Desktop\Stuff\Programming\Grade 12\Assignments\ISU\Shells2\Shells2\bin\x86\Debug\Content\Health Bar.xnb</Output>
+      <Time>2014-01-19T23:34:54-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Player Bar.png</Source>
+      <Name>Player Bar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean\Desktop\Stuff\Programming\Grade 12\Assignments\ISU\Shells2\Shells2\bin\x86\Debug\Content\Player Bar.xnb</Output>
+      <Time>2014-01-19T23:34:58-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Entities\BlueSoldier.png</Source>
+      <Name>Entities\BlueSoldier</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean\Desktop\Stuff\Programming\Grade 12\Assignments\ISU\Shells2\Shells2\bin\x86\Debug\Content\Entities\BlueSoldier.xnb</Output>
+      <Time>2014-01-19T23:37:00-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Entities\Captain.png</Source>
+      <Name>Entities\Captain</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean\Desktop\Stuff\Programming\Grade 12\Assignments\ISU\Shells2\Shells2\bin\x86\Debug\Content\Entities\Captain.xnb</Output>
+      <Time>2014-01-19T23:37:02-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Entities\ConstructionWorker.png</Source>
+      <Name>Entities\ConstructionWorker</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean\Desktop\Stuff\Programming\Grade 12\Assignments\ISU\Shells2\Shells2\bin\x86\Debug\Content\Entities\ConstructionWorker.xnb</Output>
+      <Time>2014-01-19T23:37:04-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Entities\Link Skin.png</Source>
+      <Name>Entities\Link Skin</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean\Desktop\Stuff\Programming\Grade 12\Assignments\ISU\Shells2\Shells2\bin\x86\Debug\Content\Entities\Link Skin.xnb</Output>
+      <Time>2014-01-19T23:37:06-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Entities\Mario Skin.png</Source>
+      <Name>Entities\Mario Skin</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean\Desktop\Stuff\Programming\Grade 12\Assignments\ISU\Shells2\Shells2\bin\x86\Debug\Content\Entities\Mario Skin.xnb</Output>
+      <Time>2014-01-19T23:37:06-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Entities\Ninja.png</Source>
+      <Name>Entities\Ninja</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean\Desktop\Stuff\Programming\Grade 12\Assignments\ISU\Shells2\Shells2\bin\x86\Debug\Content\Entities\Ninja.xnb</Output>
+      <Time>2014-01-19T23:37:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Entities\Pirate.png</Source>
+      <Name>Entities\Pirate</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean\Desktop\Stuff\Programming\Grade 12\Assignments\ISU\Shells2\Shells2\bin\x86\Debug\Content\Entities\Pirate.xnb</Output>
+      <Time>2014-01-19T23:37:10-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Entities\Player Four.png</Source>
+      <Name>Entities\Player Four</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean\Desktop\Stuff\Programming\Grade 12\Assignments\ISU\Shells2\Shells2\bin\x86\Debug\Content\Entities\Player Four.xnb</Output>
+      <Time>2014-01-19T23:37:12-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Entities\Player One.png</Source>
+      <Name>Entities\Player One</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean\Desktop\Stuff\Programming\Grade 12\Assignments\ISU\Shells2\Shells2\bin\x86\Debug\Content\Entities\Player One.xnb</Output>
+      <Time>2014-01-19T23:37:14-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Entities\Player Three.png</Source>
+      <Name>Entities\Player Three</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean\Desktop\Stuff\Programming\Grade 12\Assignments\ISU\Shells2\Shells2\bin\x86\Debug\Content\Entities\Player Three.xnb</Output>
+      <Time>2014-01-19T23:37:14-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Entities\Player Two.png</Source>
+      <Name>Entities\Player Two</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean\Desktop\Stuff\Programming\Grade 12\Assignments\ISU\Shells2\Shells2\bin\x86\Debug\Content\Entities\Player Two.xnb</Output>
+      <Time>2014-01-19T23:37:16-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Entities\Politician.png</Source>
+      <Name>Entities\Politician</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean\Desktop\Stuff\Programming\Grade 12\Assignments\ISU\Shells2\Shells2\bin\x86\Debug\Content\Entities\Politician.xnb</Output>
+      <Time>2014-01-19T23:37:18-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Entities\RedSoldier.png</Source>
+      <Name>Entities\RedSoldier</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean\Desktop\Stuff\Programming\Grade 12\Assignments\ISU\Shells2\Shells2\bin\x86\Debug\Content\Entities\RedSoldier.xnb</Output>
+      <Time>2014-01-19T23:37:20-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Entities\Soldier.png</Source>
+      <Name>Entities\Soldier</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean\Desktop\Stuff\Programming\Grade 12\Assignments\ISU\Shells2\Shells2\bin\x86\Debug\Content\Entities\Soldier.xnb</Output>
+      <Time>2014-01-19T23:37:20-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Entities\YellowSoldier.png</Source>
+      <Name>Entities\YellowSoldier</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean\Desktop\Stuff\Programming\Grade 12\Assignments\ISU\Shells2\Shells2\bin\x86\Debug\Content\Entities\YellowSoldier.xnb</Output>
+      <Time>2014-01-19T23:37:24-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Brick.jpg</Source>
+      <Name>Tiles\Brick</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean\Desktop\Stuff\Programming\Grade 12\Assignments\ISU\Shells2\Shells2\bin\x86\Debug\Content\Tiles\Brick.xnb</Output>
+      <Time>2014-01-19T23:38:18-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Floor.jpg</Source>
+      <Name>Tiles\Floor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean\Desktop\Stuff\Programming\Grade 12\Assignments\ISU\Shells2\Shells2\bin\x86\Debug\Content\Tiles\Floor.xnb</Output>
+      <Time>2014-01-19T23:38:18-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Grass.jpg</Source>
+      <Name>Tiles\Grass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean\Desktop\Stuff\Programming\Grade 12\Assignments\ISU\Shells2\Shells2\bin\x86\Debug\Content\Tiles\Grass.xnb</Output>
+      <Time>2014-01-19T23:38:20-05:00</Time>
+    </Item>
+    <Item>
+      <Source>blood.PNG</Source>
+      <Name>blood</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean\Desktop\Stuff\Programming\Grade 12\Assignments\ISU\Shells2\Shells2\bin\x86\Debug\Content\blood.xnb</Output>
+      <Time>2014-01-19T23:34:42-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Sand.png</Source>
+      <Name>Tiles\Sand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean\Desktop\Stuff\Programming\Grade 12\Assignments\ISU\Shells2\Shells2\bin\x86\Debug\Content\Tiles\Sand.xnb</Output>
+      <Time>2014-01-19T23:38:26-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Controls\Back Button.jpg</Source>
+      <Name>Controls\Back Button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean\Desktop\Stuff\Programming\Grade 12\Assignments\ISU\Shells2\Shells2\bin\x86\Debug\Content\Controls\Back Button.xnb</Output>
+      <Time>2014-01-19T23:34:58-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Controls\Background1.jpg</Source>
+      <Name>Controls\Background1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean\Desktop\Stuff\Programming\Grade 12\Assignments\ISU\Shells2\Shells2\bin\x86\Debug\Content\Controls\Background1.xnb</Output>
+      <Time>2014-01-19T23:35:18-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Controls\Background2.jpg</Source>
+      <Name>Controls\Background2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean\Desktop\Stuff\Programming\Grade 12\Assignments\ISU\Shells2\Shells2\bin\x86\Debug\Content\Controls\Background2.xnb</Output>
+      <Time>2014-01-19T23:36:24-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Controls\BackgroundMain.jpg</Source>
+      <Name>Controls\BackgroundMain</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean\Desktop\Stuff\Programming\Grade 12\Assignments\ISU\Shells2\Shells2\bin\x86\Debug\Content\Controls\BackgroundMain.xnb</Output>
+      <Time>2014-01-19T23:36:42-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Controls\Left Button.jpg</Source>
+      <Name>Controls\Left Button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean\Desktop\Stuff\Programming\Grade 12\Assignments\ISU\Shells2\Shells2\bin\x86\Debug\Content\Controls\Left Button.xnb</Output>
+      <Time>2014-01-19T23:36:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Controls\Options Button.jpg</Source>
+      <Name>Controls\Options Button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean\Desktop\Stuff\Programming\Grade 12\Assignments\ISU\Shells2\Shells2\bin\x86\Debug\Content\Controls\Options Button.xnb</Output>
+      <Time>2014-01-19T23:36:46-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Controls\Play Button.jpg</Source>
+      <Name>Controls\Play Button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean\Desktop\Stuff\Programming\Grade 12\Assignments\ISU\Shells2\Shells2\bin\x86\Debug\Content\Controls\Play Button.xnb</Output>
+      <Time>2014-01-19T23:36:48-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Controls\Plus Button.jpg</Source>
+      <Name>Controls\Plus Button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean\Desktop\Stuff\Programming\Grade 12\Assignments\ISU\Shells2\Shells2\bin\x86\Debug\Content\Controls\Plus Button.xnb</Output>
+      <Time>2014-01-19T23:36:50-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Controls\Quit Button.jpg</Source>
+      <Name>Controls\Quit Button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean\Desktop\Stuff\Programming\Grade 12\Assignments\ISU\Shells2\Shells2\bin\x86\Debug\Content\Controls\Quit Button.xnb</Output>
+      <Time>2014-01-19T23:36:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Controls\Right Button.jpg</Source>
+      <Name>Controls\Right Button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean\Desktop\Stuff\Programming\Grade 12\Assignments\ISU\Shells2\Shells2\bin\x86\Debug\Content\Controls\Right Button.xnb</Output>
+      <Time>2014-01-19T23:36:54-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Controls\Start Button1.jpg</Source>
+      <Name>Controls\Start Button1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean\Desktop\Stuff\Programming\Grade 12\Assignments\ISU\Shells2\Shells2\bin\x86\Debug\Content\Controls\Start Button1.xnb</Output>
+      <Time>2014-01-19T23:36:54-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Controls\Start Button2.jpg</Source>
+      <Name>Controls\Start Button2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean\Desktop\Stuff\Programming\Grade 12\Assignments\ISU\Shells2\Shells2\bin\x86\Debug\Content\Controls\Start Button2.xnb</Output>
+      <Time>2014-01-19T23:36:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Controls\Subtract Button.jpg</Source>
+      <Name>Controls\Subtract Button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean\Desktop\Stuff\Programming\Grade 12\Assignments\ISU\Shells2\Shells2\bin\x86\Debug\Content\Controls\Subtract Button.xnb</Output>
+      <Time>2014-01-19T23:36:58-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Crosshair.png</Source>
+      <Name>Crosshair</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean\Desktop\Stuff\Programming\Grade 12\Assignments\ISU\Shells2\Shells2\bin\x86\Debug\Content\Crosshair.xnb</Output>
+      <Time>2014-01-19T23:34:50-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Aura.png</Source>
+      <Name>Aura</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean\Desktop\Stuff\Programming\Grade 12\Assignments\ISU\Shells2\Shells2\bin\x86\Debug\Content\Aura.xnb</Output>
+      <Time>2014-01-19T23:34:40-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Previews\PalaceMap.png</Source>
+      <Name>Previews\PalaceMap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean\Desktop\Stuff\Programming\Grade 12\Assignments\ISU\Shells2\Shells2\bin\x86\Debug\Content\Previews\PalaceMap.xnb</Output>
+      <Time>2014-01-19T23:37:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Previews\TownMap.png</Source>
+      <Name>Previews\TownMap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean\Desktop\Stuff\Programming\Grade 12\Assignments\ISU\Shells2\Shells2\bin\x86\Debug\Content\Previews\TownMap.xnb</Output>
+      <Time>2014-01-19T23:38:12-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\GreyBricks.png</Source>
+      <Name>Tiles\GreyBricks</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean\Desktop\Stuff\Programming\Grade 12\Assignments\ISU\Shells2\Shells2\bin\x86\Debug\Content\Tiles\GreyBricks.xnb</Output>
+      <Time>2014-01-19T23:38:22-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Planks.jpg</Source>
+      <Name>Tiles\Planks</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean\Desktop\Stuff\Programming\Grade 12\Assignments\ISU\Shells2\Shells2\bin\x86\Debug\Content\Tiles\Planks.xnb</Output>
+      <Time>2014-01-19T23:38:24-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Previews\MazeMap.png</Source>
+      <Name>Previews\MazeMap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean\Desktop\Stuff\Programming\Grade 12\Assignments\ISU\Shells2\Shells2\bin\x86\Debug\Content\Previews\MazeMap.xnb</Output>
+      <Time>2014-01-19T23:37:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Previews\RaidMap.png</Source>
+      <Name>Previews\RaidMap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean\Desktop\Stuff\Programming\Grade 12\Assignments\ISU\Shells2\Shells2\bin\x86\Debug\Content\Previews\RaidMap.xnb</Output>
+      <Time>2014-01-19T23:38:04-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Crack1.png</Source>
+      <Name>Crack1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean\Desktop\Stuff\Programming\Grade 12\Assignments\ISU\Shells2\Shells2\bin\x86\Debug\Content\Crack1.xnb</Output>
+      <Time>2014-01-21T13:12:12-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Crack2.png</Source>
+      <Name>Crack2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean\Desktop\Stuff\Programming\Grade 12\Assignments\ISU\Shells2\Shells2\bin\x86\Debug\Content\Crack2.xnb</Output>
+      <Time>2014-01-21T12:41:34-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Crack3.png</Source>
+      <Name>Crack3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean\Desktop\Stuff\Programming\Grade 12\Assignments\ISU\Shells2\Shells2\bin\x86\Debug\Content\Crack3.xnb</Output>
+      <Time>2014-01-21T12:41:34-05:00</Time>
+    </Item>
+    <Item>
+      <Source>CrackV1.png</Source>
+      <Name>CrackV1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean\Desktop\Stuff\Programming\Grade 12\Assignments\ISU\Shells2\Shells2\bin\x86\Debug\Content\CrackV1.xnb</Output>
+      <Time>2014-01-21T13:14:36-05:00</Time>
+    </Item>
+    <Item>
+      <Source>CrackV2.png</Source>
+      <Name>CrackV2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean\Desktop\Stuff\Programming\Grade 12\Assignments\ISU\Shells2\Shells2\bin\x86\Debug\Content\CrackV2.xnb</Output>
+      <Time>2014-01-21T13:14:00-05:00</Time>
+    </Item>
+    <Item>
+      <Source>CrackV3.png</Source>
+      <Name>CrackV3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean\Desktop\Stuff\Programming\Grade 12\Assignments\ISU\Shells2\Shells2\bin\x86\Debug\Content\CrackV3.xnb</Output>
+      <Time>2014-01-21T13:15:20-05:00</Time>
+    </Item>
+    <Item>
+      <Source>defaultFont.spritefont</Source>
+      <Name>defaultFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean\Desktop\Stuff\Programming\Grade 12\Assignments\ISU\Shells2\Shells2\bin\x86\Debug\Content\defaultFont.xnb</Output>
+      <Time>2014-01-19T23:34:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>damageFont.spritefont</Source>
+      <Name>damageFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean\Desktop\Stuff\Programming\Grade 12\Assignments\ISU\Shells2\Shells2\bin\x86\Debug\Content\damageFont.xnb</Output>
+      <Time>2014-01-19T23:34:50-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Largegun.mp3</Source>
+      <Name>Sounds\Largegun</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean\Desktop\Stuff\Programming\Grade 12\Assignments\ISU\Shells2\Shells2\bin\x86\Debug\Content\Sounds\Largegun.xnb</Output>
+      <Time>2014-01-19T23:38:14-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\AK47.mp3</Source>
+      <Name>Sounds\AK47</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean\Desktop\Stuff\Programming\Grade 12\Assignments\ISU\Shells2\Shells2\bin\x86\Debug\Content\Sounds\AK47.xnb</Output>
+      <Time>2014-01-19T23:38:12-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Mediumgun.mp3</Source>
+      <Name>Sounds\Mediumgun</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean\Desktop\Stuff\Programming\Grade 12\Assignments\ISU\Shells2\Shells2\bin\x86\Debug\Content\Sounds\Mediumgun.xnb</Output>
+      <Time>2014-01-19T23:38:14-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Smallgun.mp3</Source>
+      <Name>Sounds\Smallgun</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean\Desktop\Stuff\Programming\Grade 12\Assignments\ISU\Shells2\Shells2\bin\x86\Debug\Content\Sounds\Smallgun.xnb</Output>
+      <Time>2014-01-19T23:38:16-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Sean\Desktop\Stuff\Programming\Grade 12\Assignments\ISU\Shells2\Shells2\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Sean\Desktop\Stuff\Programming\Grade 12\Assignments\ISU\Shells2\Shells2\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Sean\Desktop\Stuff\Programming\Grade 12\Assignments\ISU\Shells2\Shells2\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Sean\Desktop\Stuff\Programming\Grade 12\Assignments\ISU\Shells2\Shells2\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-12-28T20:03:31.4146645-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
